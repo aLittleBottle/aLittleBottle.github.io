@@ -1,0 +1,31 @@
+
+# Site settings
+title: 往事如烟
+email: 906505721@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://aLittleBottle.github.io" # the base hostname & protocol for your site
+
+# User setting
+owner:
+email:
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+gems: [jekyll-paginate]
+
+markdown: kramdown
+# toc_levels: 1..2
+
